@@ -16,7 +16,7 @@ The script categorizes files by their extensions, moves them into appropriate di
 * use a Terminal
 * navigate to your directory
 * make the script executable
-* 
+  
 Introduction
 The File Organizer Project is a simple yet powerful tool designed to automate the organization of files within a directory. By categorizing files based on their extensions, it creates a neat folder structure, moves files into appropriate directories, and logs the actions performed. This project is ideal for decluttering directories on local machines and can be adapted for various operating systems.
 
